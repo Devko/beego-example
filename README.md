@@ -1,5 +1,4 @@
-beego-example
-=============
+# beego-example
 
 Short tutorial on writing Go webapps with beego.
 
@@ -8,8 +7,7 @@ It will covers the following topics:
 - user management
 - ...
 
-Installing
-----------
+## Installing
 
 Prerequisites: Go 1.1
 
@@ -23,5 +21,10 @@ Now clone the tutorial:
 
     git clone https://github.com/Devko/beego-example.git
 
+## beego
 
+beego itself is quite well documented, you can find the documentation here:
+
+- http://beego.me/docs/Overview_Introduction
+- https://github.com/astaxie/beego/tree/master/docs/en
 
